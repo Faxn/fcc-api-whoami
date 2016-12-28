@@ -1,0 +1,22 @@
+{
+  "name": "fcc-api-whoami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faxn/fcc-api-whoami.git"
+  },
+  "author": "Blake Curry",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Faxn/fcc-api-whoami/issues"
+  },
+  "homepage": "https://github.com/Faxn/fcc-api-whoami#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
